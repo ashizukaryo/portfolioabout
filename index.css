@@ -30,3 +30,23 @@ p{
 }
 
 
+.ziko{
+    text-align: center;
+}
+
+
+.skill{
+    margin-top: 30%;
+}
+
+
+.skillnaka{
+    margin-top: 5%;
+    justify-content: space-evenly;
+}
+
+
+figure img{
+    width: 100px;
+    height: 100px;
+}
